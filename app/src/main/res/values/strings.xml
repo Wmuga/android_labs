@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LabsAndroid</string>
+    <string name="lab2p1">Lab 2 Part 1</string>
+    <string name="lab2p2">Lab 2 Part 2</string>
+    <string name="quadratic_equasion">Квадратное уравнение</string>
+    <string name="eqA">a = </string>
+    <string name="eqB">b = </string>
+    <string name="eqC">c = </string>
+    <string name="eqFull">a*x^2 + b*x + c = 0</string>
+    <string name="btnEqSolve">Решить</string>
+    <string name="solutions">Решения</string>
+    <string name="x1">x1 = </string>
+    <string name="x2">x2 = </string>
+    <string name="table">Таблица умножения</string>
+    <string name="testAll">Упражнение для всех чисел</string>
+    <string name="testProgress">Упражнение %d / %d</string>
+    <string name="testEq">%d * %d = ?</string>
+    <string name="testManual">Упражнение выборочно</string>
+    <string name="testSend">Отправить</string>
+    <string name="testStart">Начать</string>
+    <string name="testError">Неверный формат числа</string>
+    <string name="testSelect">Выберите число</string>
+    <string name="testOK">Правильный ответ</string>
+    <string name="testWrong">Неверный ответ</string>
+    <string name="testOKCount">Правильные ответы: %d</string>
+    <string name="testWrongCount">Неверные ответы: %d</string>
+    <string name="testPercent">Процент ответов: %d %%</string>
+    <string name="testResult">Результат:</string>
+</resources>

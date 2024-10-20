@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center" android:textSize="14pt"
+        android:id="@+id/textTestTitle" android:text="@string/testProgress"/>
+
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center" android:textSize="14pt"
+        android:id="@+id/textTestEq" android:text="@string/testEq" android:labelFor="@id/inpTestResult"/>
+
+    <EditText android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center" android:textSize="14pt"
+        android:id="@+id/inpTestResult"
+        android:inputType="number"
+        android:minWidth="24pt"
+        />
+
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center" android:textSize="14pt"
+        android:id="@+id/textTestPrint"/>
+
+    <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center" android:textSize="14pt"
+        android:id="@+id/btnTestResult"
+        android:text="@string/testSend"
+        />
+
+
+
+
+
+</LinearLayout>
