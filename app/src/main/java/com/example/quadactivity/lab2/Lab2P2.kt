@@ -15,9 +15,9 @@ class Lab2P2 : ComponentActivity() {
         setContentView(R.layout.activity_lab2_p2)
 
         val table = findViewById<LinearLayout>(R.id.layoutTable)
-        for(i in 1..9 step 3){
-            table.addView(createRow(i))
-        }
+//        for(i in 1..9 step 3){
+//            table.addView(createRow(i))
+//        }
 
         findViewById<Button>(R.id.btnTestAll).setOnClickListener{
             val newScreen = Intent(this, TestActivity::class.java)

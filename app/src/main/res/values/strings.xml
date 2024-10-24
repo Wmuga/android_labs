@@ -26,4 +26,5 @@
     <string name="testWrongCount">Неверные ответы: %d</string>
     <string name="testPercent">Процент ответов: %d %%</string>
     <string name="testResult">Результат:</string>
+    <string name="mtable">Multiplications table</string>
 </resources>

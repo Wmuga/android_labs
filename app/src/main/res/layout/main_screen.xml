@@ -11,6 +11,7 @@
             android:layout_gravity="center"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textSize="14pt"
             android:text="@string/lab2p1" />
 
         <Button
@@ -18,5 +19,6 @@
             android:layout_gravity="center"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textSize="14pt"
             android:text="@string/lab2p2" />
 </LinearLayout>
