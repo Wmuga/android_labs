@@ -14,7 +14,7 @@ class Lab2P2 : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_lab2_p2)
 
-        val table = findViewById<LinearLayout>(R.id.layoutTable)
+//        val table = findViewById<LinearLayout>(R.id.layoutTable)
 //        for(i in 1..9 step 3){
 //            table.addView(createRow(i))
 //        }

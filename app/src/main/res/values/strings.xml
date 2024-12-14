@@ -2,6 +2,8 @@
     <string name="app_name">LabsAndroid</string>
     <string name="lab2p1">Lab 2 Part 1</string>
     <string name="lab2p2">Lab 2 Part 2</string>
+    <string name="lab3p1">Lab 3 Part 1</string>
+    <string name="lab3p2">Lab 3 Part 2</string>
     <string name="quadratic_equasion">Квадратное уравнение</string>
     <string name="eqA">a = </string>
     <string name="eqB">b = </string>
@@ -27,4 +29,18 @@
     <string name="testPercent">Процент ответов: %d %%</string>
     <string name="testResult">Результат:</string>
     <string name="mtable">Multiplications table</string>
+    <string name="check">Проверить</string>
+    <string name="next">Далее</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="add">Добавить</string>
+    <string name="added">Добавлено</string>
+    <string name="reset">Сбросить</string>
+    <string name="fuelName">Топливо: %s</string>
+    <string name="fuelCount">Количество: %.2f</string>
+    <string name="fuelTotal">Выручка: %.2f</string>
+    <string name="fuelTotalTotal">Общая выручка: %.2f</string>
+    <string name="fuelNameHint">Название:</string>
+    <string name="fuelCountHint">Количество:</string>
+    <string name="viewAdd">Добавить</string>
+    <string name="viewList">Текущее количество</string>
 </resources>

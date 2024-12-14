@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
     android:layout_margin="20dp"
     android:layout_gravity="center">
+        <LinearLayout
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
         <Button
             android:id="@+id/btnLab2p1"
             android:layout_gravity="center"
@@ -21,4 +26,19 @@
             android:layout_height="wrap_content"
             android:textSize="14pt"
             android:text="@string/lab2p2" />
+        <Button
+            android:id="@+id/btnLab3p1"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14pt"
+            android:text="@string/lab3p1" />
+        <Button
+            android:id="@+id/btnLab3p2"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14pt"
+            android:text="@string/lab3p2" />
+</LinearLayout>
 </LinearLayout>
