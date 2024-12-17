@@ -8,6 +8,7 @@ import com.example.quadactivity.lab2.Lab2P1
 import com.example.quadactivity.lab2.Lab2P2
 import com.example.quadactivity.lab3.Lab3P1
 import com.example.quadactivity.lab3.Lab3P2
+import com.example.quadactivity.lab4.Lab4
 
 
 class MainActivity : ComponentActivity() {
@@ -24,6 +25,8 @@ class MainActivity : ComponentActivity() {
 
         binding.btnLab3p1.setOnClickListener{startScreen(Lab3P1::class.java)}
         binding.btnLab3p2.setOnClickListener{startScreen(Lab3P2::class.java)}
+
+        binding.btnLab4.setOnClickListener{startScreen(Lab4::class.java)}
     }
 
     private fun startScreen(cls:Class<*>){

@@ -43,4 +43,13 @@
     <string name="fuelCountHint">Количество:</string>
     <string name="viewAdd">Добавить</string>
     <string name="viewList">Текущее количество</string>
+    <string name="lab4">Lab 4</string>
+    <string name="btnSelect">Выбрать игроков</string>
+    <string name="btnTeam">Распределить по командам</string>
+    <string name="btnAdd">Добавить</string>
+    <string name="btnRemove">Убрать выделенных</string>
+    <string name="btnSave">Сохранить изменения</string>
+    <string name="btnReload">Перезагрузить</string>
+    <string name="team1">Команда 1</string>
+    <string name="team2">Команда 2</string>
 </resources>

@@ -40,5 +40,13 @@
             android:layout_height="wrap_content"
             android:textSize="14pt"
             android:text="@string/lab3p2" />
+
+        <Button
+            android:id="@+id/btnLab4"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14pt"
+            android:text="@string/lab4" />
 </LinearLayout>
 </LinearLayout>
